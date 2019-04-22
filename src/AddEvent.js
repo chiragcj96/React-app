@@ -23,7 +23,7 @@ class AddEvent extends Component {
                     <input type="text" name="" id="eventName" onChange={this.handleChange} />        {/* Add default text input field */}
                     <label> Hashtag: </label>
                     <input type="text" name="" id="hashtag" onChange={this.handleChange} />
-                    <button>Submit</button>
+                    <button><a href="./Post">Submit</a></button>
                 </form>
             </div>
         )
