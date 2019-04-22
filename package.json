@@ -7,7 +7,6 @@
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "homepage": "https://chiragcj96.github.io/react-app",
     "react-router-dom": "^5.0.0",
     "react-scripts": "2.1.8",
     "twit": "^2.2.11"
@@ -15,8 +14,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
