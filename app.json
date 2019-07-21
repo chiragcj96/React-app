@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "athlete-data-aggregation",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
